@@ -8,7 +8,6 @@
  * reset global
  */
 html, body {
-  margin: 0;
   font-size: 16px;
   position: relative; }
   html a, body a {
@@ -41,7 +40,7 @@ body {
   flex-direction: column;
   min-height: 100vh;
   color: #333;
-  font-family: Helvetica, Tahoma, Arial, STXihei, "Microsoft YaHei", "WenQuanYi Micro Hei", SimSun, Heiti, ubuntu, sans-serif; }
+  font-family: "Microsoft YaHei", Helvetica, Tahoma, Arial, STXihei, "WenQuanYi Micro Hei", SimSun, Heiti, ubuntu, sans-serif; }
 
 article {
   flex-grow: 1; }
