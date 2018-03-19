@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>微言</title>
+  
+  <subtitle>侠生的闲话</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://t.yangqiju.com/"/>
+  <updated>2018-03-19T07:22:34.127Z</updated>
+  <id>http://t.yangqiju.com/</id>
+  
+  <author>
+    <name>杨启炬</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title></title>
+    <link href="http://t.yangqiju.com/2018/03/10/untitled/"/>
+    <id>http://t.yangqiju.com/2018/03/10/untitled/</id>
+    <published>2018-03-09T16:00:00.000Z</published>
+    <updated>2018-03-19T07:22:34.127Z</updated>
+    
+    <content type="html"><![CDATA[<p>刘半农创造“她”字是个大坑，本来用“他”代表所有第三人称挺好的，现在呢，用 “他” 还是 “他或她” 还是 “Ta” 成了一个很麻烦的问题。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;刘半农创造“她”字是个大坑，本来用“他”代表所有第三人称挺好的，现在呢，用 “他” 还是 “他或她” 还是 “Ta” 成了一个很麻烦的问题。&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+      <category term="评论" scheme="http://t.yangqiju.com/categories/%E8%AF%84%E8%AE%BA/"/>
+    
+    
+      <category term="语言" scheme="http://t.yangqiju.com/tags/%E8%AF%AD%E8%A8%80/"/>
+    
+  </entry>
+  
+</feed>
